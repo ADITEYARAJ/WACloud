@@ -1,0 +1,12 @@
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\bin\Debug\net6.0\Template.Storage.deps.json
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\bin\Debug\net6.0\Template.Storage.dll
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\bin\Debug\net6.0\Template.Storage.pdb
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\Template.Storage.csproj.AssemblyReference.cache
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\Template.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\Template.Storage.AssemblyInfoInputs.cache
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\Template.Storage.AssemblyInfo.cs
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\Template.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\Template.Storage.dll
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\refint\Template.Storage.dll
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\Template.Storage.pdb
+C:\Users\Aditeya.Raj\Downloads\DeleteVerifiacation\Work\Template\Template.Storage\obj\Debug\net6.0\ref\Template.Storage.dll

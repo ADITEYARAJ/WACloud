@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.Test\\Template.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Core.Common\\Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Core.Common\\Core.Common.csproj",
+        "projectName": "Core.Common",
+        "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Core.Common\\Core.Common.csproj",
+        "packagesPath": "C:\\Users\\Aditeya.Raj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aditeya.Raj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.Test\\Template.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.Test\\Template.Test.csproj",
+        "projectName": "Template.Test",
+        "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.Test\\Template.Test.csproj",
+        "packagesPath": "C:\\Users\\Aditeya.Raj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aditeya.Raj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\Template.WhatsAppApi.csproj": {
+                "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\Template.WhatsAppApi.csproj"
+              },
+              "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template\\Template.csproj": {
+                "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template\\Template.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\Template.WhatsAppApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\Template.WhatsAppApi.csproj",
+        "projectName": "Template.WhatsAppApi",
+        "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\Template.WhatsAppApi.csproj",
+        "packagesPath": "C:\\Users\\Aditeya.Raj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aditeya.Raj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Core.Common\\Core.Common.csproj": {
+                "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Core.Common\\Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Collections.NonGeneric": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template\\Template.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template\\Template.csproj",
+        "projectName": "Template",
+        "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template\\Template.csproj",
+        "packagesPath": "C:\\Users\\Aditeya.Raj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aditeya.Raj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\Template.WhatsAppApi.csproj": {
+                "projectPath": "C:\\Users\\Aditeya.Raj\\Downloads\\DeleteVerifiacation\\Practice\\WACloud\\Template\\Template.WhatsAppApi\\Template.WhatsAppApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
